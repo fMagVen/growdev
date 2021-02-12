@@ -1,6 +1,7 @@
 var nome = "Marcelo Eltz";
 var cargo = "CTO - Growdev";
 var nomeHtml = document.getElementById("nome-no-html");
+var cargoHtml = document.getElementById("cargo-no-html");
 var texto2 = document.getElementById("texto-2");
 var texto1 = document.getElementById("texto-1");
 
